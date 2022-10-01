@@ -1,0 +1,18 @@
+{
+    "certificates": [{
+        "tokenId": 1,
+        "image": "ipfs://bafybeichn2qgcxoxzhw6mloqq4gh36gy3lgsfzysqphhzotzktr3mb5cje",
+        "name": "Carbon Offset Certificate",
+        "attributes": [{
+                "display_type": "date",
+                "trait_type": "Date of Issue",
+                "value": "1664622000"
+            },
+            {
+                "display_type": "text",
+                "trait_type": "Project",
+                "value": "Carbon.eth"
+            }
+        ]
+    }]
+}
