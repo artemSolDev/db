@@ -1,5 +1,5 @@
 {
-    "certificates": [{
+    "certificates": {
         "tokenId": 1,
         "image": "ipfs://bafybeichn2qgcxoxzhw6mloqq4gh36gy3lgsfzysqphhzotzktr3mb5cje",
         "name": "Carbon Offset Certificate",
@@ -14,5 +14,5 @@
                 "value": "Carbon.eth"
             }
         ]
-    }]
+    }
 }
